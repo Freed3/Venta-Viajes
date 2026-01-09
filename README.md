@@ -1,8 +1,5 @@
-Claro — aquí tienes **el README bien escrito, completo y profesional** para tu repositorio **Venta-Viajes** ✅
 
-📌 Solo copia y pega este contenido en un archivo llamado **`README.md`** en la raíz del proyecto:
 
-```markdown
 # 🌍 Venta de Viajes
 
 Este proyecto es una **página web interactiva** que muestra destinos de viajes y permite explorar información de diferentes ciudades.  
